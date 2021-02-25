@@ -1,20 +1,22 @@
-# 👋 Hey!
+### Hi there, I’m [Yqchilde](https://yqqy.top/) 👋
 
-I am just a website back-end developer, nice to meet you!
+<p align="center">
+  <img src="https://github.com/Yqchilde/Yqchilde/blob/master/hello-world.gif" width="30%">
+</p>
 
-![Yqchilde's github stats](https://github-readme-stats.vercel.app/api?username=Yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
+- 🔭 I am currently working as a Golang backend developer.
+- 🌱 I’m currently learning Golang, Python.
+- 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
+- 💬 Ask me about Anything you want~
+- 📫 Reach me: yqchilde@gmail.com
+- 😄 Pronouns: Yqchilde
+- ⚡ Fun fact: Watching movies and traveling.
 
+![Yqchilde's github stats](https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
-### 📝 Worked language
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact)
 
-- ✅ Golang / ...
-- ✅ Vue.js / ...
-- ✅ PHP / ...
-
-### 📮 Contact Me
-
-- [Email - yqchilde@gmail.com](mailto:yqchilde@gmail.com)
-
-### 🤪 Other
-
-[📌 My Blog - Yq's Blog](https://yqqy.top)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yqchilde/count.svg" />
+</p>
