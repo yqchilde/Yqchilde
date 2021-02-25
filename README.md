@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Watching movies and traveling.
 
 <table width="700px">
-<tr>table
+<tr>
 <td align="center" valign="middle" width="50%">
 
 ![Yqchilde's github stats](https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
