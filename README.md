@@ -12,9 +12,20 @@
 - 😄 Pronouns: Yqchilde
 - ⚡ Fun fact: Watching movies and traveling.
 
+<table width="700px">
+<tr>table
+<td align="center" valign="middle" width="50%">
+
 ![Yqchilde's github stats](https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
+</td>
+<td align="center" valign="middle" width="50%">
+
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact)
+
+</td>
+</tr>
+</table>
 
 <p align="center"> 
   Visitor count<br>
