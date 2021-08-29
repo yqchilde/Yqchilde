@@ -1,8 +1,9 @@
-### Hi there, I’m [Yqchilde](https://yqqy.top/) 👋
+### Hi there, I’m [Yqchilde](https://yqqy.top/) <img src="https://github.com/Yqchilde/Yqchilde/blob/master/wave.gif" width="25px">
 
-<p align="center">
-  <img src="https://github.com/Yqchilde/Yqchilde/blob/master/hello-world.gif" width="30%">
-</p>
+<img align="right" alt="GIF" src="https://github.com/Yqchilde/Yqchilde/blob/master/code.gif" width="400" height="100%" />
+
+<br />
+<br />
 
 - 🔭 I am currently working as a Golang backend developer.
 - 🌱 I’m currently learning Golang, Python.
@@ -12,20 +13,14 @@
 - 😄 Pronouns: Yqchilde
 - ⚡ Fun fact: Watching movies and traveling.
 
-<table width="700px">
-<tr>
-<td align="center" valign="middle" width="50%">
+<br />
+<br />
+<br />
 
-![Yqchilde's github stats](https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
-
-</td>
-<td align="center" valign="middle" width="50%">
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact)
-
-</td>
-</tr>
-</table>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c" width="400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact" width="400" height="160" />
+</div>
 
 <p align="center"> 
   Visitor count<br>
