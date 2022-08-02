@@ -19,7 +19,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yqchilde&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c" width="400" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact" width="400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqchilde&layout=compact&langs_count=6" width="400" height="160" />
 </div>
 
 <p align="center"> 
