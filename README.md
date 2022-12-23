@@ -1,6 +1,7 @@
 ### Hi there, I’m [Yqchilde](https://yqqy.top/) <img src="https://github.com/Yqchilde/Yqchilde/blob/master/wave.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/Yqchilde/Yqchilde/blob/master/code.gif" width="400" height="100%" />
+
+<img align='right' src="https://github.com/Yqchilde/Yqchilde/blob/master/code_night.gif" width="350" />
 
 <br />
 <br />
